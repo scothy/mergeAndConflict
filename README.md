@@ -1,1 +1,3 @@
+REMOTE
+
 # mergeAndConflict
